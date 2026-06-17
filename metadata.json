@@ -1,0 +1,6 @@
+{
+  "name": "Story Text Editor",
+  "description": "A mobile-first, Instagram-style story editor to add, drag, customize, and overlay text on images, with high-quality JPG export.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
